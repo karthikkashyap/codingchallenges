@@ -1,4 +1,4 @@
-# CODINE CHALLENGES 
+# CODING CHALLENGES 
 Coding Challenges from https://codingchallenges.fyi/
 
 More Intro from the website
